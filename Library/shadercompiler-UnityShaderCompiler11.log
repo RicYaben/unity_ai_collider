@@ -1,0 +1,58 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.3.0f6/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.3.0f6/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=9919 outsize=2927 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2923 outsize=4236 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4178 outsize=6608 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3410 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3053 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3064 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3727 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3906 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=49356 outsize=3753 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=13480 outsize=23662 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2148 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2408 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2231 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2050 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2600 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2740 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2667 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2717 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2311 outsize=1977 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2344 outsize=1950 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2272 outsize=1880 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2287 outsize=1890 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3020 outsize=3254 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2798 outsize=3151 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2848 outsize=3178 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=45671 outsize=5617 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=10961 outsize=19478 ok=1
+
+Quitting shader compiler process
