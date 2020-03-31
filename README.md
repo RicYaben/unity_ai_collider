@@ -1,3 +1,5 @@
+![alt text](https://github.com/RicYaben/unity_ai_collider/blob/master/AI_collider.gif "Ball collider")
+
 # DESCRIPTION
 
 Unity project that contains a box prefab with a sphere and a cube.
